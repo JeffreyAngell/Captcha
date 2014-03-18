@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<captchaplugin>
+	<PluginName>AntiRCSTMP</PluginName>
+	<Version>4</Version>
+	<Url>http://www.antirecaptcha.com/</Url>
+	<Description>Anti reCAPTCHA ST by SONY-TEAM</Description>
+	<SupportedSites>AQUI LOS HOSTERS / HERE HOSTERS Examp: Filestube,Ifile</SupportedSites>
+	<ExcludedSites></ExcludedSites>
+	<commandGetCaptcha>AntiRCSTMP.exe</commandGetCaptcha>
+</captchaplugin>
+
+

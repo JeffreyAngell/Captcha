@@ -1,0 +1,1 @@
+tesseract %temp%\input.bmp %temp%\input -l arc tessdata\tessconfigs\nobatch tessdata\configs\arcst
